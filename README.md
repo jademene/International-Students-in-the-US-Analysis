@@ -1,10 +1,10 @@
 # Human Capital Flight: More than Two Decades of International Students in the USA
 
-In 2022/23 international students made up more than 5% of the total U.S. higher education population (more than 1 million people), with the total number of students enrolled in the US in 2022/23 being 20 million. The USA has the world's largest international student population, with more than 1,000,000 students choosing to relocate to the United States for their education (quote source)[https://www.internationalstudent.com/].
+In 2022/23 international students made up more than 5% of the total U.S. higher education population (more than 1 million people), with the total number of students enrolled in the US in 2022/23 being 20 million. The USA has the world's largest international student population, with more than 1,000,000 students choosing to relocate to the United States for their education [quote source](https://www.internationalstudent.com/).
 
 ### The Data
 
-(Kaggle - International Student Demographics)[https://www.kaggle.com/datasets/webdevbadger/international-student-demographics]
+(Kaggle - International Student Demographics](https://www.kaggle.com/datasets/webdevbadger/international-student-demographics)
 
 ### About the Data
 
