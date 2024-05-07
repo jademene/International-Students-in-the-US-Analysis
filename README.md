@@ -10,4 +10,4 @@ In 2022/23 international students made up more than 5% of the total U.S. higher 
 
 Examining international student demographics in the USA. This dataset provides insights into a variety of aspects including, gender, marital status, Visa type, origin of country, academic level, and much more. Note that the data imported here has already been cleaned and partially formatted.
 
-_Note: this was a collaborative task with one other peer in the inernational BABD master @ POLIMI General School of Management._
+_Note: this was a collaborative task with one other peer in the international BABD master @ POLIMI General School of Management._
