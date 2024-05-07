@@ -4,7 +4,7 @@ In 2022/23 international students made up more than 5% of the total U.S. higher 
 
 ### The Data
 
-(Kaggle - International Student Demographics](https://www.kaggle.com/datasets/webdevbadger/international-student-demographics)
+[Kaggle - International Student Demographics](https://www.kaggle.com/datasets/webdevbadger/international-student-demographics)
 
 ### About the Data
 
